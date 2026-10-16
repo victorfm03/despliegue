@@ -1,1 +1,1 @@
-# Biblioteca DES · Proyecto de 2o DAW
+# Biblioteca DES · Gestión de préstamos
